@@ -1,0 +1,12 @@
+{
+  "src_files": [
+    "lib/*.js",
+    "lib/*/*.js",
+    "spec/*jasmine*.js",
+    "spec/*.spec.js",
+    "spec/*/*.spec.js"
+  ],
+  "launch_in_dev": [
+    "PhantomJS"
+  ]
+}
